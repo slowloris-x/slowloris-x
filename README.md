@@ -3,7 +3,7 @@
 ### 👨‍💻 Software Engineer | Full-Stack Developer | Freelancer
 
 🌍 Based in Meknes, Morocco  
-📧 Contact me: bouzekri.redouane@gmail.net  
+📧 Contact me: bouzekri.redouane@gmail.com  
 🌐 Portfolio: [www.redsapp.net](http://www.redsapp.net)  
 🛠️ Tools: Python, PHP, JavaScript, WordPress, React, Django, Laravel, and more.
 
